@@ -1,0 +1,37 @@
+body{
+    background-color: #fffffe;
+}
+
+.cover{
+    width: 100%;
+}
+
+.header{
+    text-align: center;
+}
+
+.info{
+    width: 100%;
+    text-align: center;
+    background-color: teal;
+    border: solid black 2px;
+    width: 95%;
+    margin:auto;
+    color: white;
+}
+
+.navbar-header{
+    background-color: teal;
+}
+
+.container-fluid{
+    background-color: teal;
+}
+
+.navbar-brand{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.navbar-header{
+    font-size: larger;
+}
